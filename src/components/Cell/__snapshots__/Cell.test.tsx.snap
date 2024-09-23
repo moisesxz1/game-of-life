@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell Component Matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="cell is-dead"
+    data-testid="cell"
+  />
+</DocumentFragment>
+`;
+
+exports[`Cell Component matches snapshot when dead 1`] = `
+<DocumentFragment>
+  <div
+    class="cell is-dead"
+    data-testid="cell"
+  />
+</DocumentFragment>
+`;

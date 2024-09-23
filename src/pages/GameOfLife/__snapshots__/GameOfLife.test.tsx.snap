@@ -1,0 +1,1625 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameOfLife Component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      style="display: grid; grid-template-columns: repeat(20, 20px);"
+    >
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+      <div
+        class="cell is-dead"
+        data-testid="cell"
+      />
+    </div>
+    <button>
+      Next State
+    </button>
+    <button>
+      Play
+    </button>
+    <input
+      type="number"
+      value="1"
+    />
+    <button>
+      Advance 1 Steps
+    </button>
+  </div>
+</DocumentFragment>
+`;
